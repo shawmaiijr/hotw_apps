@@ -1,0 +1,31 @@
+{
+  "name": "hotw_proj",
+  "version": "1.0.0",
+  "description": "mech proj",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shawmaiijr/hotw_project.git"
+  },
+  "keywords": [
+    "hotw"
+  ],
+  "author": "Daiki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawmaiijr/hotw_project/issues"
+  },
+  "homepage": "https://github.com/shawmaiijr/hotw_project#readme",
+  "dependencies": {
+    "bower": "^1.8.14",
+    "latest": "^0.2.0",
+    "nodejs": "^0.0.0",
+    "yarn": "^1.22.19"
+  }
+}

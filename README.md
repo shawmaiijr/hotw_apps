@@ -1,6 +1,6 @@
 # hotw_test
 
-A new Flutter project.
+Mech Proj
 
 ## Getting Started
 

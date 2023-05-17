@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "170807001833",
+    "project_id": "hotw-48b8d",
+    "storage_bucket": "hotw-48b8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170807001833:android:7e091eff97bf9528d1a678",
+        "android_client_info": {
+          "package_name": "com.example.hotw_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170807001833-621pmusplk3fvp3djm3edr4r8hubt1fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbQx_zhUh12cG0R6CV9ciy_yuFP5lRQx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170807001833-621pmusplk3fvp3djm3edr4r8hubt1fu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "170807001833-7de01q4pfqd99sn8ef3kjmj5c49in4i8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hotwTest.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

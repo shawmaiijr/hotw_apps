@@ -12,15 +12,48 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
-  google_nav_bar: ^5.0.6
+  lottie: ^2.3.2
+  flutter_riverpod: ^2.3.6
+  riverpod_annotation: ^2.1.1
+  flutter_native_splash: ^2.2.19
+  firebase_core: ^2.11.0
+  firebase_auth: ^4.6.0
+  google_fonts: ^4.0.4
+  go_router: ^7.0.1
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
   flutter_lints: ^2.0.0
+  riverpod_generator: ^2.2.1
+  build_runner: ^2.4.1
+  analyzer: ^5.10.0
+  flutter_launcher_icons: ^0.13.1
 
 flutter:
   assets:
-    - assets/icon/
+    - assets/
+    - assets/icons/
+    - assets/animations/
+    - assets/splash/
   uses-material-design: true
+
+flutter_native_splash:
+  android: true
+  ios: true
+  web: false
+
+  color: "#C6C6C6"
+  image: "assets/splash/splash.png"
+  color_dark: "#262626"
+  image_dark: "assets/splash/splash.png"
+  fullscreen: false
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path_ios: 'assets/icons/hotw_1024.png'
+  image_path_android: 'assets/icons/hotw_512.png'
+  adaptive_icon_background: 'assets/icons/hotw_adaptive_back.png'
+  adaptive_icon_foreground: 'assets/icons/hotw_adaptive_fore.png'
